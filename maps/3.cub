@@ -1,10 +1,10 @@
-NO ./texture/walls/wall_ln.xpm
-SO ./texture/walls/wall_ls.xpm
-WE ./texture/walls/wall_lw.xpm
-EA ./texture/walls/wall_le.xpm
+NO ./texture/walls/wall5.xpm
+SO ./texture/walls/wall6.xpm
+WE ./texture/walls/wall7.xpm
+EA ./texture/walls/wall8.xpm
 
-F 0,0,0
-C 255,255,255
+F 60,31,17
+C 135,206,235
 
         1111111111111111111111111111111111111111111111111111
         10000000001100000000000000000000000000000000000000001

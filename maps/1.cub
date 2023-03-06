@@ -1,10 +1,10 @@
-NO ./texture/walls/wall_sn.xpm
-SO ./texture/walls/wall_ss.xpm
-WE ./texture/walls/wall_sw.xpm
-EA ./texture/walls/wall_se.xpm
+NO ./texture/walls/Neon1
+SO ./texture/walls/Neon2
+WE ./texture/walls/Neon3
+EA ./texture/walls/Neon4
 
-F 102,0,0
-C 32,32,32
+F 29,17,40
+C 29,26,31
 
         1111111111111111111111111
         1000000000110000000000001

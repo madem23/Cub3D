@@ -1,10 +1,10 @@
-NO ./texture/walls/wall_mn.xpm
-SO ./texture/walls/wall_ms.xpm
-WE ./texture/walls/wall_sw.xpm
-EA ./texture/walls/wall_me.xpm
+NO ./texture/walls/wall1.xpm
+SO ./texture/walls/wall2.xpm
+WE ./texture/walls/wall3.xpm
+EA ./texture/walls/wall4.xpm
 
-F 136,45,23
-C 119,181,254
+F 105,105,105
+C 135,206,235
 
 
 
